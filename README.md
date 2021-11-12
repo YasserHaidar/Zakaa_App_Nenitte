@@ -1,4 +1,4 @@
-# e_book
+#  ZAKA@ Application
 
 Application for reading pdf articles easily
 
