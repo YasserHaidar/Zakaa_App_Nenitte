@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "819274256737",
+    "project_id": "misci-app",
+    "storage_bucket": "misci-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:819274256737:android:57fba94b4deaa3ae367520",
+        "android_client_info": {
+          "package_name": "com.hexapi.e_book"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "819274256737-3qk28u5k0gsrl4ef8t6cfoqtupke1og6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtJ3KQXLCqOqRLdPLVKE4BtAyfpBxP79g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "819274256737-3qk28u5k0gsrl4ef8t6cfoqtupke1og6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

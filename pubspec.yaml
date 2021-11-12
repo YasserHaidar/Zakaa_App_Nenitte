@@ -1,0 +1,46 @@
+name: e_book
+description: Application for reading the report articles of a customer
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  flutter_cached_pdfview:
+  flutter_linkify: ^5.0.0
+  url_launcher:
+
+  # The following adds the Cupertino Icons font to your application.
+  # Use with the CupertinoIcons class for iOS style icons.
+  cupertino_icons: ^0.1.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/circuit.png
+    - assets/cycle.png
+    - assets/heart.png
+    - assets/lamp.png
+    - assets/lens.png
+    - assets/lung.png
+    - assets/puzzle.png
+    - assets/reflection.png
+    - assets/logo.jpeg
+    - assets/Animals Food Chain.pdf
+    - assets/circulatory system.pdf
+    - assets/electrical_Circuits.pdf
+    - assets/Light and its colors.pdf
+    - assets/Reflection and refraction.pdf
+    - assets/Respiratory system.pdf
+
